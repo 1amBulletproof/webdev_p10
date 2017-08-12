@@ -3,7 +3,7 @@
  * @author Brandon Tarney
  * @since 6/16/2017
  */
-package com.brandontarney.model;
+package com.brandontarney.service;
 
 public class BadRateException extends Exception{
     
